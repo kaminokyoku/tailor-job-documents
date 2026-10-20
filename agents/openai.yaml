@@ -1,0 +1,6 @@
+interface:
+  display_name: "Tailor Job Documents"
+  short_description: "Create evidence-led CVs and requested cover letters"
+  default_prompt: "Use $tailor-job-documents with my private profile and this vacancy to create polished application documents."
+policy:
+  allow_implicit_invocation: true

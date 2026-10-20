@@ -1,0 +1,13 @@
+{
+  "upstream": "https://github.com/career-ops-hq/career-ops",
+  "version": "1.34.0",
+  "commit": "6326eb5d3804e8cb20d28acd5701a4e603a301f9",
+  "license": "MIT",
+  "modifications": "None; adapter is outside the vendored files",
+  "sha256": {
+    "verify-cv-facts.mjs": "a71e5474396ade6abb764038f7ae82ef3d75ecab5e85af4a443230ffe2d02493",
+    "path-resolver.mjs": "31faf677471a4cf96f23888c017d2d426cc1e3cd30135dcc828ccb83db199f93",
+    "lib/is-main-module.mjs": "4e61a2a34a4b5cecd5f7ff21fe46c935a1e99650a48c3555b1b1359ec0c30ed7",
+    "LICENSE": "51989d2589b2aa87ca6cbb253391bcb476a21cbafdc71eea4410548538510870"
+  }
+}
